@@ -1,0 +1,64 @@
+body{
+margin:10px;
+}
+
+header{
+font-family: 'Poppins', sans-serif;
+text-align:center;
+background-image:url("images/fondo.jpeg");
+background-attachment:fixed;
+opacity:0.8;
+padding:50px;
+}
+
+nav{
+background-color:#54a0ff;
+text-align:center;
+padding:20px;
+font-family: 'Poppins', sans-serif;
+font-size:20px;
+word-spacing:15px;
+color:white;
+}
+a{
+color:#222f3e;
+}
+
+.introduccion{
+margin:10px;
+padding:5px;
+font-family: 'Montserrat', sans-serif;
+font-size:16px;
+}
+
+.ilus{
+float:left;
+margin:10px;
+padding-top:10px;
+}
+
+.cuerpo{
+margin:10px;
+padding:5px;
+font-family: 'Montserrat', sans-serif;
+font-size:16px;
+}
+
+.galeria{
+text-align:center;
+}
+
+.fuentes{
+padding:10px;
+font-family: 'Montserrat', sans-serif;
+font-size:13px;
+text-align:center;
+}
+
+footer{
+background-color:#c8d6e5;
+padding:10px;
+font-family: 'Montserrat', sans-serif;
+font-size:13px;
+text-align:center;
+}
